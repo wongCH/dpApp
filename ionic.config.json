@@ -1,0 +1,8 @@
+{
+  "name": "DPHospitalityCalculator",
+  "app_id": "b04cfa14",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
